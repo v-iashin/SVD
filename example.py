@@ -8,9 +8,9 @@ alpha = 0.001
 n = 1000
 # the n-by-m matrix that we want to approximate
 A = np.array([[3, 2], [-4, 6], [-1, 3]])
-# and a couple of vectors: b is n by 1
+# and a couple of vectors: b is n by k
 b = np.array([[1], [4], [2]])
-# and c is m by 1
+# and c is m by k
 c = np.array([[-3], [2]])
 
 # run
