@@ -8,10 +8,10 @@ alpha = 0.001
 n = 1000
 # the n-by-m matrix that we want to approximate
 A = np.array([[3, 2], [-4, 6], [-1, 3]])
-# and a couple of vectors: b is n by k
-B = np.array([[1], [4], [2]])
-# and c is m by k
-C = np.array([[-3], [2]])
+# and a couple of matrices: B is n by k
+B = np.array([[1, 2], [4, 1], [2, 2]])
+# and C is m by k
+C = np.array([[-3, 1], [2, 3]])
 
 # run
-SVD(mat = A, initial_vec1 = B, initial_vec2 = C, learn_rate = alpha, iterations = n)
+SVD(mat = A, initial_mat1 = B, initial_mat2 = C, learn_rate = alpha, iterations = n)
