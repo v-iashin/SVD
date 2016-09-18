@@ -1,4 +1,4 @@
-# SVD
+# SVD using gradient descent
 
 *18/09/2016*
 
