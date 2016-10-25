@@ -2,7 +2,7 @@
 
 *20/09/2016*
 
-This is my attempt to code my own SVD using gradient descent method on Python. 
+This is my attempt to code my own SVD approximation from two matrices using gradient descent method on Python. 
 
 This code was submitted as homework at my University.
 
