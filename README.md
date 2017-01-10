@@ -2,11 +2,11 @@
 
 *20/09/2016*
 
-This is my attempt to code my own SVD approximation from two matrices using gradient descent method on Python. 
+This is an attempt to code my own SVD approximation from two matrices using the gradient descent method on Python. 
 
-This code was submitted as homework at my University.
+This code was submitted as a homework at my University.
 
-The 'function.py'-file in this repository contains the code of a function that was written on Python.
+The 'function.py'-file contains the code of a function.
 
 The 'example.py'-file contains the code of an example.
 
